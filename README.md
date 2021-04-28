@@ -7,6 +7,8 @@ Simply checks the first part
 
 ![15cf0a53b55de01d86e825075d1aa492.png](../_resources/28d2b0bea4dd4f128bccabc94bc84806.png)
 
+![My Version](https://github.com/mperina11/OneLessPEA/blob/main/_resources/28d2b0bea4dd4f128bccabc94bc84806.png)
+
 [Can exploit by following](https://book.hacktricks.xyz/linux-unix/privilege-escalation#reusing-sudo-tokens)
 
 ---

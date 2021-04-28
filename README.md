@@ -3,7 +3,7 @@ linPEAS but without the auto-exploit
 
 ---
 ## My Version
-Simply checks the first part
+Simply checks the first part and skips auto-exploit
 
 ![My Version](https://github.com/mperina11/OneLessPEA/blob/main/_resources/28d2b0bea4dd4f128bccabc94bc84806.png)
 

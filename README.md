@@ -1,6 +1,13 @@
 # OneLessPEA
 linPEAS but without the auto-exploit
 
+## Files
+onelesspea.sh
+- version from April 2021
+
+onelesspea_V2.sh
+- version from Aug 2021
+
 ---
 ## My Version
 Simply checks the first part and skips auto-exploit
